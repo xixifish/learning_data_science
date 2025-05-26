@@ -1,0 +1,11 @@
+[project]
+name = "git-files"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "notebook>=7.4.2",
+    "numpy>=2.0.2",
+    "pandas>=2.2.3",
+    "scipy>=1.13.1",
+]
